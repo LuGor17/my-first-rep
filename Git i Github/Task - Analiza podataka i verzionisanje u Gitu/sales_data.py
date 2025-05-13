@@ -1,5 +1,5 @@
 # sales_data.py
-# Weekly sales data: [Ponedjeljak, Utorak, Srijeda, Četvrtak, Petak, Subota, Nedjelja]
+# Weekly sales data: [Ponedjeljak, Utorak, Srijeda, Četvrtak, Petak, Subota, Sunday]
 sales_data = [230, 200, 310, 290, 400, 150, 180]
 
 def total_sales(data):
