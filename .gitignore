@@ -1,0 +1,3 @@
+# Ignorisanje snimaka ekrana
+my_first_rep/screenshots/*.png
+my_first_rep/screenshots/*.jpg
